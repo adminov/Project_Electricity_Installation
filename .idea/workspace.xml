@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaab5a18-ea5d-485d-ae1e-2644341988c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21k5BQqj0iIcVrC3czzyfxKhpV4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\batish\Electricity_Installation" />
+      <recent name="D:\batish\Electricity_Installation\src" />
+      <recent name="D:\batish\Electricity_Installation\dist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\batish\Electricity_Installation\images" />
+      <recent name="D:\batish\Electricity_Installation\src\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaab5a18-ea5d-485d-ae1e-2644341988c6" name="Default Changelist" comment="" />
+      <created>1638472108102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638472108102</updated>
+      <workItem from="1638472111684" duration="8241000" />
+      <workItem from="1638540996161" duration="12460000" />
+      <workItem from="1638699644208" duration="21133000" />
+      <workItem from="1638785599136" duration="1509000" />
+      <workItem from="1638887146373" duration="205000" />
+      <workItem from="1638904834657" duration="1875000" />
+      <workItem from="1638954400189" duration="2545000" />
+      <workItem from="1638958675025" duration="278000" />
+      <workItem from="1638959000011" duration="2603000" />
+      <workItem from="1639072991472" duration="4177000" />
+      <workItem from="1639140512290" duration="4232000" />
+      <workItem from="1639416864966" duration="8767000" />
+      <workItem from="1639465252735" duration="8710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638474076932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638474076932" />
+    <state x="225" y="199" key="SettingsEditor" timestamp="1638958953918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="225" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1638958953918" />
+    <state x="1135" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1639465653779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1135" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639465653779" />
+    <state x="1096" y="235" key="run.anything.popup" timestamp="1639478896833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639478896833" />
+    <state x="1006" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1638963577791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1006" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638963577791" />
+  </component>
+</project>
